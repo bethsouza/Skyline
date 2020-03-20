@@ -1,4 +1,4 @@
-# vRealilze Log Insight
+# vRealize Log Insight
 
 <p align="center"><b>A List of Awesome vRealize Log Insight Resources from Community</b>
    
