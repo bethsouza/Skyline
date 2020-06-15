@@ -18,10 +18,8 @@ vRealize Log Insight Product Page https://www.vmware.com/products/vrealize-log-i
 vRealize Log Insight Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html (English) <br/>
 vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (English) <br/>
 
-**Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li
-
+**Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li<br/>
 **Brazilian Telegram group** https://t.me/vCloudMgmt<br/> <br/>
-
 **VMware Technical Network (VMTN)** https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> <br/>
 **Documentation** https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
 **Blogs** <br/>
@@ -32,7 +30,7 @@ vRealize Log Insight Agent Multi-Destination Support - Yogita Patil https://blog
 Steve Flanders Blog https://sflanders.net/tag/log-insight/ <br/>
 VMware vRealize Log Insight content pack for Cisco ASA - Mischa Buijs https://be-virtual.net/vmware-vrealize-log-insight-content-pack-for-cisco-asa/ <br/><br/>
 
-**Youtube Channels** <br/>
+### Youtube Channels <br/>
 vRealize Log Insight Agent Install and Configuration - Matt Bradford https://youtu.be/LMDcXCWBa1o <br/>
 How to Troubleshoot with vRealize Log Insight - Nico Guerrera https://youtu.be/93ErLFg_8sY <br/>
 Create an alert in vRLI for missing vSAN 7 File Shares - Kim Bottu https://vmusketeers.com/2020/04/07/create-an-alert-for-missing-vsan-7-file-shares-in-vrli/ <br/>
