@@ -64,14 +64,6 @@ Through Pull Requests (PR) you can contribute. But first, use the Github issue t
 You can send message to me with any additions, suggesyions on Twitter @bethcsouza
 
 Thank you to help and share this project with the community!<br/><br/>
-**Thanks for help**<br/>
-I'd like to say thanks to all that helped to keep this repository.
-Special thanks for encourage to start this project.
-
-[Valdecir Carvalho](https://twitter.com/homelaber)<br/>
-[Luciano Gomes](https://twitter.com/lucgovmw)<br/>
-[Priscilla Rega](https://twitter.com/PriscillaRega)
-
 
 **Disclaimer**<br/>
 The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
