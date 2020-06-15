@@ -9,8 +9,8 @@
 Welcome! I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/LogInsight/blob/master/contribute.md)
 
-<p align="center"><b> **Announcing # vRealize Log Insight 8.1! https://t.co/bULGQdm5Gc?amp=1 <br/>
-<p align="center"><b> **What's new in vRealize Log Insight 8.1 https://blogs.vmware.com/management/2020/04/whats-new-in-vrealize-log-insight-8-1.html
+<p align="center"><b> **Announcing # vRealize Log Insight 8.1!** https://t.co/bULGQdm5Gc?amp=1 <br/>
+<p align="center"><b> **What's new in vRealize Log Insight 8.1** https://blogs.vmware.com/management/2020/04/whats-new-in-vrealize-log-insight-8-1.html
    
 **Product Information**
 
@@ -37,10 +37,9 @@ vRealize Log Insight Agent Install and Configuration - Matt Bradford https://you
 How to Troubleshoot with vRealize Log Insight - Nico Guerrera https://youtu.be/93ErLFg_8sY <br/>
 Create an alert in vRLI for missing vSAN 7 File Shares - Kim Bottu https://vmusketeers.com/2020/04/07/create-an-alert-for-missing-vsan-7-file-shares-in-vrli/ <br/>
 
-**vRealize Log Insight Community Content Pack Exchange ** https://www.vmware.com/go/log-insight-content-exchange <br/>
+**vRealize Log Insight Community Content Pack Exchange** https://www.vmware.com/go/log-insight-content-exchange <br/>
 
 **Twitter List**<br/>
-
 Julie Roman [@__vRO](https://twitter.com/__vRO)<br/> 
 Yogita Patil [@nitinyogi6](https://twitter.com/nitinyogi6?lang=en)<br/>
 Nico Guerrera [@nicomgu](https://twitter.com/nicomgu) <br/>
@@ -52,14 +51,12 @@ Postman Client Collection for vRealize Operations REST APIs https://code.vmware.
 Getting started with PowerCLI for vRealize Operations (vR OPs) https://blogs.vmware.com/PowerCLI/2016/05/getting-started-with-powercli-for-vrealize-operations-vr-ops.html<br/>
 Flings https://flings.vmware.com/?utf8=%E2%9C%93&product=vRealize+Operations+Manager<br/>
 
-**How to collaborate**
-
+**How to collaborate**<br/>
 Your contribution is very important to keep this repository active and up to date. Every contribution will be most welcome.
 Use GitHub issues to propose changes to this repository.
 The community thanks you for your contribution.<br/>
 
-**How to contribute**
-
+**How to contribute**<br/>
 Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.<br/>
 You can send message to me with any additions, suggesyions on Twitter @bethcsouza
 
