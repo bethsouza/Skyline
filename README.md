@@ -21,14 +21,14 @@ vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (E
 ### Download and try https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li<br/>
 ### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
 ### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> 
-### Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
+### Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/>
 ### Blogs <br/>
 Forwarding Kubernetes Logs to vRealize Log Insight via Fluentd - Nico Guerrera https://blogs.vmware.com/management/2019/04/forwarding-kubernetes-logs-to-vrealize-log-insight-via-fluentd.html <br/>
 Forwarding vRealize Log Insight events to a SIEM solution - Yogita Patil https://blogs.vmware.com/management/2020/01/forwarding-vrealize-log-insight-events-to-a-siem-solution.html<br/>
 vRealize Log Insight Index Partitions and Variable Retention Deep Dive - Matt Bradford https://blogs.vmware.com/management/2020/05/vrealize-log-insight-index-partitions-and-variable-retention-deep-dive.html<br/>
 vRealize Log Insight Agent Multi-Destination Support - Yogita Patil https://blogs.vmware.com/management/2017/06/vrealize-log-insight-agent-multi-destination-support.html<br/>
 Steve Flanders Blog https://sflanders.net/tag/log-insight/ <br/>
-VMware vRealize Log Insight content pack for Cisco ASA - Mischa Buijs https://be-virtual.net/vmware-vrealize-log-insight-content-pack-for-cisco-asa/ <br/><br/>
+VMware vRealize Log Insight content pack for Cisco ASA - Mischa Buijs https://be-virtual.net/vmware-vrealize-log-insight-content-pack-for-cisco-asa/ <br/>
 
 ### Youtube Channels <br/>
 vRealize Log Insight Agent Install and Configuration - Matt Bradford https://youtu.be/LMDcXCWBa1o <br/>
@@ -58,7 +58,7 @@ The community thanks you for your contribution.<br/>
 Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.<br/>
 You can send message to me with any additions, suggesyions on Twitter @bethcsouza
 
-Thank you to help and share this project with the community!<br/><br/>
+Thank you to help and share this project with the community!<br/>
 
 ## Disclaimer<br/>
 The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
