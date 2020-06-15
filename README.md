@@ -39,12 +39,6 @@ Create an alert in vRLI for missing vSAN 7 File Shares - Kim Bottu https://vmusk
 
 **vRealize Log Insight Community Content Pack Exchange** https://www.vmware.com/go/log-insight-content-exchange <br/>
 
-**Twitter List** <br/>
-
-Nico Guerrera [@nicomgu](https://twitter.com/nicomgu) <br/>
-Yogita Patil [@nitinyogi6](https://twitter.com/nitinyogi6?lang=en)<br/>
-
-
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
