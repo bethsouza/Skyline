@@ -39,10 +39,11 @@ Create an alert in vRLI for missing vSAN 7 File Shares - Kim Bottu https://vmusk
 
 **vRealize Log Insight Community Content Pack Exchange** https://www.vmware.com/go/log-insight-content-exchange <br/>
 
-**Twitter List**<br/>
-Julie Roman [@__vRO](https://twitter.com/__vRO)<br/> 
-Yogita Patil [@nitinyogi6](https://twitter.com/nitinyogi6?lang=en)<br/>
+**Twitter List** <br/>
+
 Nico Guerrera [@nicomgu](https://twitter.com/nicomgu) <br/>
+Yogita Patil [@nitinyogi6](https://twitter.com/nitinyogi6?lang=en)<br/>
+
 
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
