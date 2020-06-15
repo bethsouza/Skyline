@@ -18,23 +18,14 @@ vRealize Log Insight Product Page https://www.vmware.com/products/vrealize-log-i
 vRealize Log Insight Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html (English) <br/>
 vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (English) <br/>
 
-**Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
+**Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li
 
 **Brazilian Telegram group** https://t.me/vCloudMgmt<br/> <br/>
 
-**Product Datasheet** <br/>
-https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf <br/> <br/>
-**About Definitions for Metrics, Properties, and Alerts** <br/>
-**Version 7.0**<br/>
-https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-manager-70-reference-guide.pdf <br/>
-**Version 7.5**<br/>
-https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf <br/> <br/>
-**Product Walkthrough** <br/>
-https://vrealize.vmware.com/t/vrealize-operations/vrealize-operations-features-and-capabilities/ <br/> <br/>
 **VMware Technical Network (VMTN)** <br/>
-https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
+https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> <br/>
 **Documentation** <br/>
-https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
+https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
 **Blogs** <br/>
 Blog VMware https://blogs.vmware.com/management/ <br/>
 Cameron Fore http://cameronfore.com/<br/>
