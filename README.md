@@ -19,8 +19,8 @@ vRealize Log Insight Documentation https://docs.vmware.com/en/vRealize-Log-Insig
 vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (English) <br/>
 
 ### Download and try https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li<br/>
-### Brazilian Telegram group https://t.me/vCloudMgmt<br/> <br/>
-### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> <br/>
+### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
+### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> 
 ### Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
 ### Blogs <br/>
 Forwarding Kubernetes Logs to vRealize Log Insight via Fluentd - Nico Guerrera https://blogs.vmware.com/management/2019/04/forwarding-kubernetes-logs-to-vrealize-log-insight-via-fluentd.html <br/>
