@@ -22,72 +22,27 @@ vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (E
 
 **Brazilian Telegram group** https://t.me/vCloudMgmt<br/> <br/>
 
-**VMware Technical Network (VMTN)** <br/>
-https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> <br/>
-**Documentation** <br/>
-https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
+**VMware Technical Network (VMTN)** https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> <br/>
+**Documentation** https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/> <br/>
 **Blogs** <br/>
-Blog VMware https://blogs.vmware.com/management/ <br/>
-Cameron Fore http://cameronfore.com/<br/>
-Christopher Mitchell http://www.caenotech.co.uk/category/vmware/vrops/ <br/>
-Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
-Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
-Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/ <br/>
-John Dias http://www.storagegumbo.com/ <br/>
-Lan Nguyen http://www.vmignite.com <br/>
-Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
-Matt Bradford http://www.vmspot.com<br/>
-Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
-Paolo Valsecchi https://nolabnoparty.com/en/vrealize-operations-manager-7-5-deployment-pt-1/<br/>
-Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
-Rick Verstegen https://rickverstegen84.wordpress.com/<br/>
-Sajal Debnath  https://sajaldebnath.com <br/>
-Samuel Nunes http://www.eucbrasil.com/ <br/>
-Scott Norris https://www.virtualiseme.net.au/ <br/>
-Steve Tilkens http://www.tilkens.com/ <br/>
-Sunny Dua http://vxpresss.blogspot.com/ <br/>
-Suraj Rawat https://vmarkade.wordpress.com/vrealize-operations-manager/<br/> 
-Thom Greene https://www.thomgreene.com <br/>
-Vineeth A C https://vineethac.blogspot.com/2019/09/vrealize-operations-manager-75-blog.html?m=1<br/> 
-vMan https://vman.ch/category/vmware/vrops/<br/> 
-Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
+Forwarding Kubernetes Logs to vRealize Log Insight via Fluentd - Nico Guerrera https://blogs.vmware.com/management/2019/04/forwarding-kubernetes-logs-to-vrealize-log-insight-via-fluentd.html <br/>
+Forwarding vRealize Log Insight events to a SIEM solution - Yogita Patil https://blogs.vmware.com/management/2020/01/forwarding-vrealize-log-insight-events-to-a-siem-solution.html<br/>
+vRealize Log Insight Index Partitions and Variable Retention Deep Dive - Matt Bradford https://blogs.vmware.com/management/2020/05/vrealize-log-insight-index-partitions-and-variable-retention-deep-dive.html<br/>
+vRealize Log Insight Agent Multi-Destination Support - Yogita Patil https://blogs.vmware.com/management/2017/06/vrealize-log-insight-agent-multi-destination-support.html<br/>
 
-**From GitHub**<br/>
-Brandon Gordon https://github.com/notoriousbdg<br/>
-Brock Peterson https://github.com/brockpeterson/vrops_dashboards<br/>
-John Dias https://github.com/johnddias/vrobbie<br/>
-Pontus Rydin https://github.com/vmware/vrops-export/<br/>
-Tim Carman https://github.com/AsBuiltReport/AsBuiltReport.VMware.vROps<br/>
 
-**Dashboard and Super Metrics Samples**<br/>
-VMware Code https://vrealize.vmware.com/sample-exchange<br/>
 
-**Management Packs**<br/>
-http://Solutionexchange.vmware.com<br/>
-https://bluemedora.com/products/vmware-vrealize-true-visibility/
 
-**Youtube Channels**
 
-Virtualization24x7  https://www.youtube.com/channel/UCcrKN4gu9ZwXUlHD5Ly8BgA<br/>
-VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEclPbge6XMVZnQtndtiuMlB<br/>
-VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ<br/>
-VMware Cloud Management https://www.youtube.com/channel/UCKON30YeSGIeqsueMYgEa9A<br/>
 
-**Books and eBooks**
 
-VMware vRealize Operations Performance and Capacity Management - Iwan 'e1' Rahabok<br/>
-Mastering vRealize Operations Manager - Scott Norris e Christopher Slater<br/>
-E-book https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 
-**Training**<br/>
-Udemy https://www.udemy.com/course/ing-vmware-vrealize-operations-manager/<br/>
-VMware Education https://bit.ly/2kPRlol<br/><br/>
-**Learning Zone and Practical Labs** <br/>
-https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/<br/>
-https://vmwarelearningzone.vmware.com <br/>
-https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
-**Certification**<br/>
-https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html<br/><br/>
+
+
+
+**vRealize Log Insight Community Content Pack Exchange ** https://www.vmware.com/go/log-insight-content-exchange <br/>
+
+
 **Twitter List**<br/>
 Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
 David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
