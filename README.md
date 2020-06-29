@@ -9,16 +9,15 @@
 Welcome! I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/Skyline/blob/master/contribute.md)
 
-### Announcing vRealize Log Insight 8.1 https://t.co/bULGQdm5Gc?amp=1 <br/>
-### What's new in vRealize Log Insight 8.1 https://blogs.vmware.com/management/2020/04/whats-new-in-vrealize-log-insight-8-1.html
+### What is VMware Skyline https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
   
 ### Product Information
 
-vRealize Log Insight Product Page https://www.vmware.com/products/vrealize-log-insight.html (English) <br/>
-vRealize Log Insight Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html (English) <br/>
-vRealize Log Insight Sizing Calculator https://kb.vmware.com/s/article/60355  (English) <br/>
+VMware Skyline Product Page https://www.vmware.com/support/services/skyline.html (English) <br/>
+VMware Skyline Documentation https://docs.vmware.com/en/VMware-Skyline/index.html (English) <br/>
+Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20
+ 
 
-### Download and try https://my.vmware.com/en/web/vmware/evalcenter?p=vr-li<br/>
 ### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
 ### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/vrealize/log-insight <br/> 
 ### Documentation https://docs.vmware.com/en/vRealize-Log-Insight/index.html <br/>
