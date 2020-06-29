@@ -1,9 +1,9 @@
-# vRealize Log Insight
+# VMware Skyline
 
-<p align="center"><b>A List of Awesome vRealize Log Insight Resources from Community</b>
+<p align="center"><b>A List of Awesome VMware Skyline Resources from Community</b>
    
 <p align="center">
-   <img src="https://github.com/bethsouza/LogInsight/blob/master/LogInsight.jpg">
+   <img src="https://github.com/bethsouza/Skyline/blob/master/skyline.jpg">
 </p>
 
 Welcome! I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
