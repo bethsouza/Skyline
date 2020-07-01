@@ -20,7 +20,7 @@ Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20
 ### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
 ### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/skyline/overview <br/> 
 ### Blogs <br/>
-https://blogs.vmware.com/kb/support-experience <br/>
+Support Experience https://blogs.vmware.com/kb/support-experience <br/>
 FAQs https://kb.vmware.com/s/article/55928 <br/>
 The Skyline overview https://cloud.vmware.com/skyline <br/>
 ### Youtube Channel is https://www.youtube.com/channel/UCZTvfJMhQ5Oc5TFw465tcJQ <br/>
