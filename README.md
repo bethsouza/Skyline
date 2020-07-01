@@ -13,8 +13,8 @@ Welcome! I count on your contribution, making this repository useful for the com
   
 ### Product Information
 
-VMware Skyline Product Page https://www.vmware.com/support/services/skyline.html (English) <br/>
-VMware Skyline Documentation https://docs.vmware.com/en/VMware-Skyline/index.html (English) <br/>
+VMware Skyline Product Page https://www.vmware.com/support/services/skyline.html <br/>
+VMware Skyline Documentation https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
 Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20
 
 ### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
@@ -23,6 +23,7 @@ Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20
 Support Experience https://blogs.vmware.com/kb/support-experience <br/>
 FAQs https://kb.vmware.com/s/article/55928 <br/>
 The Skyline overview https://cloud.vmware.com/skyline <br/>
+What is VMware Skyline http://geeklady.com.br/index.php/2018/12/14/o-que-e-e-para-que-serve-o-vmware-skyline/ (Portuguese) <br/>
 ### Youtube Channel is https://www.youtube.com/channel/UCZTvfJMhQ5Oc5TFw465tcJQ <br/>
   Skyline Overview https://www.youtube.com/watch?v=cg5NvJo0jqg
   VMware Skyline Download, Installation & Configuration https://www.youtube.com/watch?v=DKe9aUJj3yo
