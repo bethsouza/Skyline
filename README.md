@@ -24,7 +24,7 @@ Support Experience https://blogs.vmware.com/kb/support-experience <br/>
 FAQs https://kb.vmware.com/s/article/55928 <br/>
 The Skyline overview https://cloud.vmware.com/skyline <br/>
 What is VMware Skyline http://geeklady.com.br/index.php/2018/12/14/o-que-e-e-para-que-serve-o-vmware-skyline/ (Portuguese) <br/>
-### Youtube Channel is https://www.youtube.com/channel/UCZTvfJMhQ5Oc5TFw465tcJQ  <br/>
+### Youtube Channel is https://www.youtube.com/playlist?list=PL9MeVsU0uG66ts4jiTxT1rt9Hi-N4GUl3 <br/>
   Skyline Overview https://www.youtube.com/watch?v=cg5NvJo0jqg <br/>
   VMware Skyline Download, Installation & Configuration https://www.youtube.com/watch?v=DKe9aUJj3yo <br/>
   Getting Started with VMware Skyline https://www.youtube.com/watch?v=U6pTLFGlKjM <br/>
