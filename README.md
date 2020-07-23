@@ -15,7 +15,8 @@ Welcome! I count on your contribution, making this repository useful for the com
 
 VMware Skyline Product Page https://www.vmware.com/support/services/skyline.html <br/>
 VMware Skyline Documentation https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
-Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20
+Hands-on Labs https://my.vmware.com/en/web/vmware/evalcenter?p=skyline-hol-20 <br/>
+Events and Courses https://bit.ly/2CWvvrY
 
 ### Brazilian Telegram group https://t.me/vCloudMgmt<br/>
 ### VMware Technical Network (VMTN) https://communities.vmware.com/community/vmtn/skyline/overview <br/> 
