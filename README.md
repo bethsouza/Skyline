@@ -9,6 +9,9 @@
 Welcome! I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/Skyline/blob/master/contribute.md)
 
+<p align="center"> Last VMware Skyline Update https://bit.ly/2OUKBkl
+</p>
+
 ### What is VMware Skyline https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
   
 ### Product Information
