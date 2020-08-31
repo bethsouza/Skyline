@@ -10,11 +10,11 @@ Welcome! I count on your contribution, making this repository useful for the com
 [Here's how to contribute](https://github.com/bethsouza/Skyline/blob/master/contribute.md)
 
 <p align="center"> 
-   <Last VMware Skyline Update https://bit.ly/2OUKBkl>
-</p>
 
+### 26 AUG 2020 Announcing New VMware Skyline Advisor Release https://bit.ly/3gMJ1MW <br/>  
+   
 ### What is VMware Skyline https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
-  
+
 ### Product Information
 
 VMware Skyline Product Page https://www.vmware.com/support/services/skyline.html <br/>
