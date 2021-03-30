@@ -11,7 +11,9 @@ Welcome! I count on your contribution, making this repository useful for the com
 
 <p align="center"> 
 
-### Skyline is available to customers if the contract support is active and is Production Support or Premier Services contract br/>  
+### Skyline is available to customers if the contract support is active and is Production Support or Premier Services contract <br/>  
+
+### Release Notes (https://docs.vmware.com/en/VMware-Skyline-Advisor/services/rn/VMware-Skyline-Advisor-Release-Notes.html)<br/>
    
 ### What is VMware Skyline https://docs.vmware.com/en/VMware-Skyline/index.html <br/>
 "*Skyline automatically and securely collects, aggregates and analyzes customer specific product usage data to proactively identify potential issues and improve time-to-resolution*" https://kb.vmware.com/s/article/55928
